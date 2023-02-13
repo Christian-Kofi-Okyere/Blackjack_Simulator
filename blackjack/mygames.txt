@@ -1,0 +1,11 @@
+Player Hand: [4, 11, 3] : 18, PlayerHandTotal: 18
+Dealer Hand: [4, 11, 10] : 25, DealerHandTotal: 25
+PLAYER WINS
+
+Player Hand: [6, 11] : 17, PlayerHandTotal: 17
+Dealer Hand: [11, 11] : 22, DealerHandTotal: 22
+PLAYER WINS
+
+Player Hand: [11, 9] : 20, PlayerHandTotal: 20
+Dealer Hand: [7, 11] : 18, DealerHandTotal: 18
+PLAYER WINS
