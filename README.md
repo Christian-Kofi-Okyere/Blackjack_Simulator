@@ -16,7 +16,7 @@ A combination of these methods were used to make the actual game in the simulati
 
 This project helps to understand the concept of object-oriented programming, multiple methods (static and non-static), variables, loops and dynamic arrays in java.
 
-##Installation
+## Installation
 
 To use this blackjack simulator, simply clone this repository to your local machine:
 git clone https://github.com/Christian-Kofi-Okyere/Data-Structures-and-Algorithms-Projects
