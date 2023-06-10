@@ -19,7 +19,7 @@ This project helps to understand the concept of object-oriented programming, mul
 ## Installation
 
 To use this blackjack simulator, simply clone this repository to your local machine:
-git clone https://github.com/Christian-Kofi-Okyere/Data-Structures-and-Algorithms-Projects
+git clone https://github.com/Christian-Kofi-Okyere/Blackjack_Simulator
 
 ## Usage
 
