@@ -1,10 +1,7 @@
 /*
  Name: Christian Okyere
- Date: 02/12/2023
- Section: B
  File: Simulation.java
  Project: Monte-Carlo Simulation: Blackjack
- Course: CS231
  */
 
 public class Simulation {
